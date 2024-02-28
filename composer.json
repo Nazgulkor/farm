@@ -1,0 +1,14 @@
+{
+    "name": "test/farm",
+    "autoload": {
+        "psr-4": {
+            "App\\Farm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nazgulkor",
+            "email": "usupmezhiev95@gmail.com"
+        }
+    ]
+}
